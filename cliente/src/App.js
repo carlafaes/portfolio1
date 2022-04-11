@@ -9,6 +9,7 @@ function App() {
     <div className="App">
       <Routes>
         <Route  path='/' element={<About/>}/>
+        <Route  path='/port' element={<Portfolio/>}/>
       </Routes>
     </div>
   );

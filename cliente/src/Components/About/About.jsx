@@ -9,14 +9,15 @@ useEffect(()=>{
     .then(
         res => setInformation(res.data[0])
     )
-},[setInformation])
+},[])
     return(
         <div>
             <h1>{information.name}</h1>
             <p>{information.profession}</p>
-            <img src={information.photo} />
-            {/* <p>{information.aboutme}</p> */}
+            <img src={information.photo} alt='yo_foto' />
+            <p>{information.about_me}</p> 
             <p>{information.skills}</p>
+            
         </div>
     )
 }

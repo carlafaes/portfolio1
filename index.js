@@ -20,3 +20,5 @@ app.get('/portfolio',(req,res)=>{
 app.listen(port, ()=>{
     console.log(`Server on : ${port}`)
 })
+
+console.log(about)

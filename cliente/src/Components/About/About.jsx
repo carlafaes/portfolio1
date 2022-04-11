@@ -11,7 +11,7 @@ useEffect(()=>{
     )
 },[])
     return(
-        <div>
+        <div id='about'>
             <h1>{information.name}</h1>
             <p>{information.profession}</p>
             <img src={information.photo} alt='yo_foto' />

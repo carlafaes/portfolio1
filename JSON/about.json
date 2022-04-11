@@ -1,9 +1,9 @@
 [
     {
         "name":"Carla Faes",
-        "profession":"Web Developer Full Stack",
-        "photo":"https://androidayuda.com/wp-content/uploads/2016/03/Forest-App-Productividad-Portada.jpg",
-        "about_me":"Soy lo mas",
+        "profession":"Full Stack Web Developer",
+        "photo":"https://i.imgur.com/1YfsVyH.jpg",
+        "about_me":"No es oro todo lo que reluce; no todos los que vagan están perdidos; lo viejo, si vigoroso, no se marchita; a las raíces profundas no les afecta la helada",
         "skills":[
             "Javascript",
             "NodeJs",

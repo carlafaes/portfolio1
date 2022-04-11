@@ -1,4 +1,5 @@
 import React from 'react';
+import {Route,Routes} from 'react-router-dom';
 import About from './Components/About/About';
 import Portfolio from './Components/Portfolio/Portfolio';
 import './App.css';
@@ -6,7 +7,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <About/>
+      <Routes>
+        <Route  path='/' element={<About/>}/>
+      </Routes>
     </div>
   );
 }

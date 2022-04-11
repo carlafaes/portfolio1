@@ -5,7 +5,7 @@ export default function About(){
 const [information, setInformation]=useState({});
 
 useEffect(()=>{
-    axios.get('/about')
+    axios.get('https://portfolio-carlafaes.herokuapp.com/about')
     .then(
         res => setInformation(res.data[0])
     )

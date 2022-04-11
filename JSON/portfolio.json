@@ -1,14 +1,33 @@
 [
     {
         "name":"Dogs App",
-        "description":"blabla",
+        "description":"S.P.A, creada utilizando React,Redux,Express Js, Sequelize, PostgreSQL,Javascript,CSS3, consultando la informacion brindada por API The Dog ",
         "image":"https://androidayuda.com/wp-content/uploads/2016/03/Forest-App-Productividad-Portada.jpg",
         "link":"https://androidayuda.com/wp-content/uploads/2016/03/Forest-App-Productividad-Portada.jpg"
     },
     {
         "name":"Food App",
-        "description":"blablabla",
-        "image":"https://androidayuda.com/wp-content/uploads/2016/03/Forest-App-Productividad-Portada.jpg",
-        "link":"https://androidayuda.com/wp-content/uploads/2016/03/Forest-App-Productividad-Portada.jpg"
+        "description":"S.P.A creada usando las siguientes tecnologías:React,Redux,Express Js,Sequelize,PostgreSQL,Javascript,CSS3. Consultando la informacion de la API Spoonacular",
+        "image":"https://i.imgur.com/I66zw5p.png",
+        "link":"https://pi-food-main-five.vercel.app/"
+    },
+    {
+        "name":"InmobilApp",
+        "description":"Este proyecto ha sido creado con React,MongoDB,Javascript, adicionalmente se han utilizado otras librerias como Material-UI, React-scroll,React-Paginate,Figma. El objetivo propuesto para llevarlo a cabo, es ofrecer al agente inmobiliario una herramienta necesaria para una correcta,sencilla, y efectiva administración de su empresa. Incluyendo tanto el sector financiero, como la publicidad de sus propiedades disponibles. La applicacion cuenta con distintos filtrados, para hacer de la experiencia de usuario fluida y capaz de adaptarse a sus necesidades.",
+        "image":"https://i.imgur.com/tRBm9G9.png",
+        "link":"https://inmobilapp.vercel.app/"
+    },
+    {
+        "name":"Everyone's Store",
+        "description":"Este proyecto ha sido creado con React,PostgreSQL,Javascript,CSS3,Firebase,Node JS, JWT,Sequelize,Nodemailer, Redux,SCSS,Express Js,Material-UI,Framer-Motion. Everyone's Store es una tienda virtual especializada en productos tecnológicos, que prioriza la comodidad del usuario a la hora de realizar sus compras.",
+        "image":"https://i.imgur.com/ZvGr6ec.png",
+        "link":"https://respaldo-everyones-store.vercel.app/"
+    },
+    {
+        "name":"Rick And Morty App",
+        "description":"S.P.A creada usando las siguientes tecnologías:React,Redux,Express Js,Sequelize,PostgreSQL,Javascript,CSS3. Consultando la informacion de la API The Rick And Morty",
+        "image":"https://i.imgur.com/HfzZhsT.png",
+        "link":"https://pi-rick-and-morty.vercel.app/"
     }
+
 ]

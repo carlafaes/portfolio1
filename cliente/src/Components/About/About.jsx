@@ -1,6 +1,6 @@
 import React,{useState,useEffect} from 'react';
 import axios from 'axios';
-
+import style from './About.module.css'
 export default function About(){
 const [information, setInformation]=useState({});
 
@@ -11,12 +11,20 @@ useEffect(()=>{
     )
 },[])
     return(
-        <div id='about'>
-            <h1>{information.name}</h1>
-            <p>{information.profession}</p>
-            <img src={information.photo} alt='yo_foto' />
-            <p>{information.about_me}</p> 
-            <p>{information.skills}</p>
+        <div id='about' className={style.container}>
+            <div className={style.misdatos}>
+                <img className={style.foto} src={information.photo} alt='yo_foto' />
+                <div className={style.container_name}>
+                    <h1 className={style.nombre}>Hola! soy {information.name}</h1>
+                    <p className={style.profesion}>{information.profession}</p>
+                </div>
+            </div>
+            <div className={style.aboutMe}>
+                <p className={style.aboutme}>{information.about_me}</p> 
+            </div>
+            {/* <div className={style.tools}>
+                <p className={style.skills}>{information.skills + ',  '}</p>
+            </div> */}
             
         </div>
     )

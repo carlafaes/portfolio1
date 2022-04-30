@@ -13,7 +13,7 @@
     },
     {
         "name":"InmobilApp",
-        "description":"Este proyecto ha sido creado con React,MongoDB,Javascript, adicionalmente se han utilizado otras librerias como Material-UI, React-scroll,React-Paginate,Figma. El objetivo propuesto para llevarlo a cabo, es ofrecer al agente inmobiliario una herramienta necesaria para una correcta,sencilla, y efectiva administración de su empresa. Incluyendo tanto el sector financiero, como la publicidad de sus propiedades disponibles. La applicacion cuenta con distintos filtrados, para hacer de la experiencia de usuario fluida y capaz de adaptarse a sus necesidades.",
+        "description":"Este proyecto ha sido creado con React,MongoDB,Javascript, adicionalmente se han utilizado otras librerias como Material-UI, React-scroll,React-Paginate,Figma. El objetivo propuesto para llevarlo a cabo, es ofrecer al agente inmobiliario una herramienta necesaria para una correcta,sencilla, y efectiva administración de su empresa. Incluyendo tanto el sector financiero, como la publicidad de sus propiedades disponibles. ",
         "image":"https://i.imgur.com/tRBm9G9.png",
         "link":"https://inmobilapp.vercel.app/"
     },

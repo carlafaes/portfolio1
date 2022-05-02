@@ -1,10 +1,5 @@
 [
-    {
-        "name":"Dogs App",
-        "description":"S.P.A, creada utilizando React,Redux,Express Js, Sequelize, PostgreSQL,Javascript,CSS3, consultando la informacion brindada por API The Dog ",
-        "image":"https://androidayuda.com/wp-content/uploads/2016/03/Forest-App-Productividad-Portada.jpg",
-        "link":"https://androidayuda.com/wp-content/uploads/2016/03/Forest-App-Productividad-Portada.jpg"
-    },
+    
     {
         "name":"Food App",
         "description":"S.P.A creada usando las siguientes tecnologías:React,Redux,Express Js,Sequelize,PostgreSQL,Javascript,CSS3. Consultando la informacion de la API Spoonacular",

@@ -23,6 +23,11 @@
         "description":"S.P.A creada usando las siguientes tecnologías:React,Redux,Express Js,Sequelize,PostgreSQL,Javascript,CSS3. Consultando la informacion de la API The Rick And Morty",
         "image":"https://i.imgur.com/HfzZhsT.png",
         "link":"https://pi-rick-and-morty.vercel.app/"
+    },
+    {
+        "name":"CityWeather",
+        "description":"CityWeather esta creada completamente con React Js, consultando la API de WeatherAPI.Provee informacion respecto al clima actual,pronostico extendido,pronostico por horas y alertas metereologicas.",
+        "image":"https://i.imgur.com/Xh2WV1N.png",
+        "link":"https://weather-app-ten-snowy.vercel.app/"
     }
-
 ]

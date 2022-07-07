@@ -1,12 +1,6 @@
 [
     
     {
-        "name":"Food App",
-        "description":"S.P.A creada usando las siguientes tecnologías:React,Redux,Express Js,Sequelize,PostgreSQL,Javascript,CSS3. Consultando la informacion de la API Spoonacular",
-        "image":"https://i.imgur.com/I66zw5p.png",
-        "link":"https://pi-food-main-five.vercel.app/"
-    },
-    {
         "name":"InmobilApp",
         "description":"Este proyecto ha sido creado con React,MongoDB,Javascript, adicionalmente se han utilizado otras librerias como Material-UI, React-scroll,React-Paginate,Figma. El objetivo propuesto para llevarlo a cabo, es ofrecer al agente inmobiliario una herramienta necesaria para una correcta,sencilla, y efectiva administración de su empresa. Incluyendo tanto el sector financiero, como la publicidad de sus propiedades disponibles. ",
         "image":"https://i.imgur.com/tRBm9G9.png",
